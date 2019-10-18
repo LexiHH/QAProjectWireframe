@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.1.3" host="www.draw.io" modified="2019-10-18T09:53:11.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="6AT423AOWBxHNZZxpfvm" pages="3">
+<mxfile type="github" version="12.1.3" host="www.draw.io" modified="2019-10-18T13:22:00.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="UYPfDiP_WPiCCefaKeWd" pages="3">
   <diagram id="nMbEW4el2jbkitHSky47" name="FlightLog">
     <mxGraphModel grid="1" dx="848" dy="532" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" background="none">
       <root>
@@ -331,13 +331,13 @@
         <mxCell id="2VcNcAjpWqnttjoj4OWY-4" value="Picture" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=21;fontColor=#FFFFFF;opacity=30;">
           <mxGeometry as="geometry" height="145" width="143" y="420" x="132"/>
         </mxCell>
-        <mxCell id="WyWSjid5mBtgm29taI9y-2" value="&lt;div align=&quot;center&quot;&gt;From Flight Date&amp;nbsp;&lt;/div&gt;" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#FFFFFF;opacity=30;align=center;strokeColor=#FFFFFF;">
+        <mxCell id="WyWSjid5mBtgm29taI9y-2" value="&lt;div align=&quot;center&quot;&gt;from&lt;/div&gt;" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#FFFFFF;opacity=30;align=center;strokeColor=#FFFFFF;">
           <mxGeometry as="geometry" height="30" width="186" y="330" x="284"/>
         </mxCell>
         <mxCell id="WyWSjid5mBtgm29taI9y-4" value="" parent="1" vertex="1" style="triangle;whiteSpace=wrap;html=1;rotation=90;fillColor=#FFFFFF;strokeColor=none;fontColor=#333333;">
-          <mxGeometry as="geometry" height="20" width="11" y="335" x="442"/>
+          <mxGeometry as="geometry" height="20" width="11" y="335" x="249"/>
         </mxCell>
-        <mxCell id="WyWSjid5mBtgm29taI9y-5" value="Filter By:" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#FFFFFF;opacity=30;align=left;">
+        <mxCell id="WyWSjid5mBtgm29taI9y-5" value="Filter By" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#FFFFFF;opacity=30;align=center;">
           <mxGeometry as="geometry" height="30" width="143" y="330" x="132"/>
         </mxCell>
         <mxCell id="WyWSjid5mBtgm29taI9y-6" value="&lt;div align=&quot;left&quot;&gt;Total Flight Time:&lt;br&gt;&lt;/div&gt;" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#FFFFFF;opacity=30;align=left;">
@@ -346,7 +346,7 @@
         <mxCell id="WyWSjid5mBtgm29taI9y-7" value="&amp;nbsp; &amp;nbsp;&amp;nbsp; hrs &amp;nbsp;&amp;nbsp; mins" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#FFFFFF;opacity=30;align=center;strokeColor=#FFFFFF;">
           <mxGeometry as="geometry" height="30" width="186" y="366" x="284"/>
         </mxCell>
-        <mxCell id="WyWSjid5mBtgm29taI9y-9" value="&lt;div align=&quot;center&quot;&gt;To Flight Date&amp;nbsp;&lt;/div&gt;" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#FFFFFF;opacity=30;align=center;">
+        <mxCell id="WyWSjid5mBtgm29taI9y-9" value="to" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#FFFFFF;opacity=30;align=center;">
           <mxGeometry as="geometry" height="30" width="185" y="330" x="480"/>
         </mxCell>
         <mxCell id="WyWSjid5mBtgm29taI9y-10" value="" parent="1" vertex="1" style="triangle;whiteSpace=wrap;html=1;rotation=90;fillColor=#FFFFFF;strokeColor=none;fontColor=#333333;">
@@ -360,6 +360,9 @@
             <mxPoint as="sourcePoint" y="1500" x="60"/>
             <mxPoint as="targetPoint" y="1450" x="110"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xr_CO7B2xYz3fXLMO39n-3" value="" parent="1" vertex="1" style="triangle;whiteSpace=wrap;html=1;rotation=90;fillColor=#FFFFFF;strokeColor=none;fontColor=#333333;">
+          <mxGeometry as="geometry" height="20" width="11" y="335" x="448"/>
         </mxCell>
       </root>
     </mxGraphModel>
