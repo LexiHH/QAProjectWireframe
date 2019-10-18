@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.1.3" host="www.draw.io" modified="2019-10-18T08:22:42.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="EVvzFF1-XCQlYbUG8LHK" pages="2">
+<mxfile type="github" version="12.1.3" host="www.draw.io" modified="2019-10-18T08:24:40.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="TykivNqLlcsM5xV83d6k" pages="2">
   <diagram id="nMbEW4el2jbkitHSky47" name="FlightLog">
     <mxGraphModel grid="1" dx="768" dy="452" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,22 +23,22 @@
           <mxGeometry as="geometry" height="130" width="87" y="190" x="583"/>
         </mxCell>
         <mxCell id="YY9EZxj1DfYb8qE-qnu3-8" value="Flight Time: &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; mins" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;align=left;">
-          <mxGeometry as="geometry" height="30" width="185" y="365" x="480"/>
+          <mxGeometry as="geometry" height="30" width="185" y="402.5" x="480"/>
         </mxCell>
         <mxCell id="YY9EZxj1DfYb8qE-qnu3-9" value="Description" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=21;fontColor=#000000;opacity=50;">
-          <mxGeometry as="geometry" height="145" width="186" y="365" x="284.5"/>
+          <mxGeometry as="geometry" height="145" width="186" y="402.5" x="284.5"/>
         </mxCell>
         <mxCell id="YY9EZxj1DfYb8qE-qnu3-10" value="Edit" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;">
-          <mxGeometry as="geometry" height="16" width="268" y="519" x="132"/>
+          <mxGeometry as="geometry" height="16" width="268" y="556.5" x="132"/>
         </mxCell>
         <mxCell id="YY9EZxj1DfYb8qE-qnu3-11" value="Airfield(s):" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;align=left;">
-          <mxGeometry as="geometry" height="30" width="185" y="480" x="480"/>
+          <mxGeometry as="geometry" height="30" width="185" y="517.5" x="480"/>
         </mxCell>
         <mxCell id="YY9EZxj1DfYb8qE-qnu3-12" value="Passengers:" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;align=left;">
-          <mxGeometry as="geometry" height="30" width="185" y="440.5" x="480"/>
+          <mxGeometry as="geometry" height="30" width="185" y="478" x="480"/>
         </mxCell>
         <mxCell id="YY9EZxj1DfYb8qE-qnu3-13" value="Delete" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;">
-          <mxGeometry as="geometry" height="16" width="260" y="519" x="405"/>
+          <mxGeometry as="geometry" height="16" width="260" y="556.5" x="405"/>
         </mxCell>
         <mxCell id="YY9EZxj1DfYb8qE-qnu3-28" value="&lt;p style=&quot;line-height: 140%&quot;&gt;&lt;br&gt;&lt;/p&gt;" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=18;fontColor=#000000;opacity=50;align=left;verticalAlign=top;">
           <mxGeometry as="geometry" height="350" width="470" y="1040" x="141"/>
@@ -83,7 +83,7 @@
           <mxGeometry as="geometry" height="35" width="133" y="1338" x="156"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-1" value="Flight Date:&amp;nbsp;" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;align=left;">
-          <mxGeometry as="geometry" height="30" width="185" y="403" x="480"/>
+          <mxGeometry as="geometry" height="30" width="185" y="440.5" x="480"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-2" value="DD/MM/YYYY" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;fontFamily=Courier New;fontSize=18;fontColor=#000000;opacity=50;">
           <mxGeometry as="geometry" height="25" width="264" y="1266" x="316"/>
@@ -92,55 +92,61 @@
           <mxGeometry as="geometry" height="35" width="133" y="1261" x="151"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-4" value="Picture" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=21;fontColor=#000000;opacity=50;">
-          <mxGeometry as="geometry" height="145" width="143" y="365" x="132"/>
+          <mxGeometry as="geometry" height="145" width="143" y="402.5" x="132"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-5" value="Flight Time: &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; mins" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;align=left;">
-          <mxGeometry as="geometry" height="30" width="185" y="560" x="480"/>
+          <mxGeometry as="geometry" height="30" width="185" y="597.5" x="480"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-6" value="Description&lt;br style=&quot;font-size: 21px;&quot;&gt;" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=21;fontColor=#000000;opacity=50;">
-          <mxGeometry as="geometry" height="145" width="186" y="560" x="284.5"/>
+          <mxGeometry as="geometry" height="145" width="186" y="597.5" x="284.5"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-7" value="Edit" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;">
-          <mxGeometry as="geometry" height="16" width="268" y="714" x="132"/>
+          <mxGeometry as="geometry" height="16" width="268" y="751.5" x="132"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-8" value="Airfield(s):" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;align=left;">
-          <mxGeometry as="geometry" height="30" width="185" y="675" x="480"/>
+          <mxGeometry as="geometry" height="30" width="185" y="712.5" x="480"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-9" value="Passengers:" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;align=left;">
-          <mxGeometry as="geometry" height="30" width="185" y="635.5" x="480"/>
+          <mxGeometry as="geometry" height="30" width="185" y="673" x="480"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-10" value="Delete" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;">
-          <mxGeometry as="geometry" height="16" width="260" y="714" x="405"/>
+          <mxGeometry as="geometry" height="16" width="260" y="751.5" x="405"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-11" value="Flight Date:&amp;nbsp;" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;align=left;">
-          <mxGeometry as="geometry" height="30" width="185" y="598" x="480"/>
+          <mxGeometry as="geometry" height="30" width="185" y="635.5" x="480"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-12" value="Picture" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=21;fontColor=#000000;opacity=50;">
-          <mxGeometry as="geometry" height="145" width="143" y="560" x="132"/>
+          <mxGeometry as="geometry" height="145" width="143" y="597.5" x="132"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-13" value="Flight Time: &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; mins" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;align=left;">
-          <mxGeometry as="geometry" height="30" width="185" y="750" x="480"/>
+          <mxGeometry as="geometry" height="30" width="185" y="787.5" x="480"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-14" value="Description&lt;br style=&quot;font-size: 21px;&quot;&gt;" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=21;fontColor=#000000;opacity=50;">
-          <mxGeometry as="geometry" height="145" width="186" y="750" x="284.5"/>
+          <mxGeometry as="geometry" height="145" width="186" y="787.5" x="284.5"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-15" value="Edit" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;">
-          <mxGeometry as="geometry" height="16" width="268" y="904" x="132"/>
+          <mxGeometry as="geometry" height="16" width="268" y="941.5" x="132"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-16" value="Airfield(s):" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;align=left;">
-          <mxGeometry as="geometry" height="30" width="185" y="865" x="480"/>
+          <mxGeometry as="geometry" height="30" width="185" y="902.5" x="480"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-17" value="Passengers:" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;align=left;">
-          <mxGeometry as="geometry" height="30" width="185" y="825.5" x="480"/>
+          <mxGeometry as="geometry" height="30" width="185" y="863" x="480"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-18" value="Delete" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;">
-          <mxGeometry as="geometry" height="16" width="260" y="904" x="405"/>
+          <mxGeometry as="geometry" height="16" width="260" y="941.5" x="405"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-19" value="Flight Date:&amp;nbsp;" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;align=left;">
-          <mxGeometry as="geometry" height="30" width="185" y="788" x="480"/>
+          <mxGeometry as="geometry" height="30" width="185" y="825.5" x="480"/>
         </mxCell>
         <mxCell id="2VcNcAjpWqnttjoj4OWY-20" value="Picture" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=21;fontColor=#000000;opacity=50;">
-          <mxGeometry as="geometry" height="145" width="143" y="750" x="132"/>
+          <mxGeometry as="geometry" height="145" width="143" y="787.5" x="132"/>
+        </mxCell>
+        <mxCell id="WyWSjid5mBtgm29taI9y-1" value="Filter By:" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;align=left;">
+          <mxGeometry as="geometry" height="30" width="108" y="330" x="132"/>
+        </mxCell>
+        <mxCell id="WyWSjid5mBtgm29taI9y-2" value="&lt;div align=&quot;center&quot;&gt;Flight Date&amp;nbsp;&lt;/div&gt;" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#000000;opacity=50;align=center;">
+          <mxGeometry as="geometry" height="30" width="185" y="330" x="250"/>
         </mxCell>
       </root>
     </mxGraphModel>
