@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.1.3" host="www.draw.io" modified="2019-10-18T09:18:11.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="swNsRTJztSOPv8iq2DmZ" pages="3">
+<mxfile type="github" version="12.1.3" host="www.draw.io" modified="2019-10-18T09:53:11.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="6AT423AOWBxHNZZxpfvm" pages="3">
   <diagram id="nMbEW4el2jbkitHSky47" name="FlightLog">
     <mxGraphModel grid="1" dx="848" dy="532" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" background="none">
       <root>
@@ -251,7 +251,7 @@
           <mxGeometry as="geometry" height="145" width="143" y="781.5" x="73.5"/>
         </mxCell>
         <mxCell id="YY9EZxj1DfYb8qE-qnu3-2" value="&lt;font&gt;Flight Log&lt;/font&gt;" parent="1" vertex="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;opacity=30;fontSize=40;fontFamily=Courier New;labelBorderColor=none;labelBackgroundColor=none;fontColor=#FFFFFF;fontStyle=0">
-          <mxGeometry as="geometry" height="130" width="467" y="181" x="132"/>
+          <mxGeometry as="geometry" height="130" width="467" y="178" x="132"/>
         </mxCell>
         <mxCell id="YY9EZxj1DfYb8qE-qnu3-3" value="Airfields" parent="1" vertex="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;opacity=30;fontSize=15;fontFamily=Courier New;labelBorderColor=none;labelBackgroundColor=none;fontColor=#FFFFFF;">
           <mxGeometry as="geometry" height="40" width="160" y="120" x="467"/>
@@ -263,7 +263,7 @@
           <mxGeometry as="geometry" height="40" width="160" y="120" x="180"/>
         </mxCell>
         <mxCell id="YY9EZxj1DfYb8qE-qnu3-7" value="Create&lt;br&gt;New&lt;br&gt;Log" parent="1" vertex="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;opacity=30;fontSize=14;fontFamily=Courier New;labelBorderColor=none;labelBackgroundColor=none;fontColor=#FFFFFF;fontStyle=0">
-          <mxGeometry as="geometry" height="130" width="87" y="181" x="583"/>
+          <mxGeometry as="geometry" height="130" width="87" y="178" x="583"/>
         </mxCell>
         <mxCell id="YY9EZxj1DfYb8qE-qnu3-8" value="Flight Time: &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; mins" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#FFFFFF;opacity=30;align=left;">
           <mxGeometry as="geometry" height="30" width="185" y="420" x="480"/>
