@@ -1,10 +1,10 @@
-<mxfile type="github" version="12.1.3" host="www.draw.io" modified="2019-10-18T13:22:00.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="UYPfDiP_WPiCCefaKeWd" pages="3">
+<mxfile type="github" version="12.1.3" host="www.draw.io" modified="2019-10-18T14:42:32.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="W7E7mXDNSQbrIdUbp6-i" pages="3">
   <diagram id="nMbEW4el2jbkitHSky47" name="FlightLog">
     <mxGraphModel grid="1" dx="848" dy="532" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" background="none">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="YJR4mvDb289GQr2k--yZ-1" value="" parent="1" vertex="1" style="group" connectable="0">
+        <mxCell id="YJR4mvDb289GQr2k--yZ-1" value="" parent="1" vertex="1" style="group;fontSize=10;" connectable="0">
           <mxGeometry as="geometry" height="1040" width="680" y="52" x="60"/>
         </mxCell>
         <mxCell id="YJR4mvDb289GQr2k--yZ-2" value="" parent="YJR4mvDb289GQr2k--yZ-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000047;fontSize=12;">
@@ -249,6 +249,15 @@
         </mxCell>
         <mxCell id="YJR4mvDb289GQr2k--yZ-82" value="Picture" parent="YJR4mvDb289GQr2k--yZ-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=21;fontColor=#FFFFFF;opacity=30;">
           <mxGeometry as="geometry" height="145" width="143" y="781.5" x="73.5"/>
+        </mxCell>
+        <mxCell id="xr_CO7B2xYz3fXLMO39n-5" value="ID" parent="YJR4mvDb289GQr2k--yZ-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=15;fontColor=#FFFFFF;opacity=30;">
+          <mxGeometry as="geometry" height="30" width="28" y="423" x="20"/>
+        </mxCell>
+        <mxCell id="xr_CO7B2xYz3fXLMO39n-6" value="ID" parent="YJR4mvDb289GQr2k--yZ-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=15;fontColor=#FFFFFF;opacity=30;">
+          <mxGeometry as="geometry" height="30" width="28" y="632" x="20"/>
+        </mxCell>
+        <mxCell id="xr_CO7B2xYz3fXLMO39n-9" value="ID" parent="YJR4mvDb289GQr2k--yZ-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=15;fontColor=#FFFFFF;opacity=30;">
+          <mxGeometry as="geometry" height="30" width="28" y="839.5588235294117" x="20"/>
         </mxCell>
         <mxCell id="YY9EZxj1DfYb8qE-qnu3-2" value="&lt;font&gt;Flight Log&lt;/font&gt;" parent="1" vertex="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;opacity=30;fontSize=40;fontFamily=Courier New;labelBorderColor=none;labelBackgroundColor=none;fontColor=#FFFFFF;fontStyle=0">
           <mxGeometry as="geometry" height="130" width="467" y="178" x="132"/>
@@ -617,6 +626,15 @@
         </mxCell>
         <mxCell id="xg07SEolugo31VQGWtjz-81" value="Landing Fee:" parent="xg07SEolugo31VQGWtjz-0" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=12;fontColor=#FFFFFF;opacity=30;align=left;">
           <mxGeometry as="geometry" height="30" width="185" y="860.5" x="422.5"/>
+        </mxCell>
+        <mxCell id="GO1r_qn5zHrXJG4n6I_C-0" value="ID" parent="xg07SEolugo31VQGWtjz-0" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=15;fontColor=#FFFFFF;opacity=30;">
+          <mxGeometry as="geometry" height="30" width="28" y="350" x="30"/>
+        </mxCell>
+        <mxCell id="GO1r_qn5zHrXJG4n6I_C-1" value="ID" parent="xg07SEolugo31VQGWtjz-0" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=15;fontColor=#FFFFFF;opacity=30;">
+          <mxGeometry as="geometry" height="30" width="28" y="582.5" x="30"/>
+        </mxCell>
+        <mxCell id="GO1r_qn5zHrXJG4n6I_C-2" value="ID" parent="xg07SEolugo31VQGWtjz-0" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=15;fontColor=#FFFFFF;opacity=30;">
+          <mxGeometry as="geometry" height="30" width="28" y="815" x="30"/>
         </mxCell>
         <mxCell id="L4bOj4LlUDrryAcFYIaK-3" value="Airfields" parent="L4bOj4LlUDrryAcFYIaK-1" vertex="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;opacity=30;fontSize=40;fontFamily=Courier New;labelBorderColor=none;labelBackgroundColor=none;fontColor=#FFFFFF;">
           <mxGeometry as="geometry" height="130" width="467" y="190" x="132"/>
